@@ -71,11 +71,11 @@ The repository includes various visualizations that illustrate sentiment pattern
 
 The image below shows the distribution of sentiment scores vs user scores
 
-![Sentiments vs Scores](assets/sentiment_vs_scores_.png)
+![Sentiments vs Scores](assets/sentiment_vs_scores.png)
 
 The image below shows sentiment score densities over user scores
 
-![Sentiment densities](assets/sentiment_densities_.png)
+![Sentiment densities](assets/sentiment_densities.png)
 
 ## 🚀 Getting Started
 
