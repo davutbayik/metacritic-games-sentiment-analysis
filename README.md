@@ -6,6 +6,8 @@
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange.svg)](https://jupyter.org/)
 ![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
+![Wordcloud](assets/sentiment_wordclouds.png)
+
 ## 📊 Project Overview
 
 This repository contains a comprehensive sentiment analysis project focused on Metacritic game reviews. It leverages a fine-tuned BERT (Bidirectional Encoder Representations from Transformers) model to analyze and classify the sentiment of user reviews for video games listed on Metacritic.
@@ -64,7 +66,7 @@ The repository includes various visualizations that illustrate sentiment pattern
 - Distribution of sentiments vs user scores
 - Sentiment distribution across game genres
 - Platform comparison charts
-- Word clouds for positive/negative sentiment vocabulary
+- Word clouds for positive, negative and neutral sentiment vocabulary
 - Sentiment scores accross score bins
 
 ## 📉 Example Visuals
