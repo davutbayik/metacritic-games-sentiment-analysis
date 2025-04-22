@@ -1,4 +1,4 @@
-# Metacritic Games Sentiment Analysis
+# 🧠 Metacritic Games Sentiment Analysis
 
 **Unlock the emotional pulse of gaming with this sentiment analysis project that deciphers user reviews from Metacritic into powerful insights and visual stories.**
 
