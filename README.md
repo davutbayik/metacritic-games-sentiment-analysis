@@ -6,6 +6,8 @@
 [![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange.svg)](https://jupyter.org/)
 ![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
+---
+
 ![Wordcloud](assets/sentiments_wordcloud.png)
 
 ## 📊 Project Overview
