@@ -1,6 +1,6 @@
 # Metacritic Games Sentiment Analysis
 
-Sentiment Analysis to Metacritic Games by using a fine-tuned BERT model
+**Unlock the emotional pulse of gaming with this sentiment analysis project that deciphers user reviews from Metacritic into powerful insights and visual stories.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
