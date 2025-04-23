@@ -135,10 +135,10 @@ The fine-tuned BERT model achieves the following performance metrics on the test
 
 | Metric    | Score  |
 |-----------|--------|
-| Accuracy  | 92.3%  |
-| Precision | 91.7%  |
-| Recall    | 90.9%  |
-| F1 Score  | 91.3%  |
+| Accuracy  | 85.7%  |
+| Precision | 85.2%  |
+| Recall    | 85.7%  |
+| F1 Score  | 85.4%  |
 
 The confusion matrix demonstrates particularly strong performance in distinguishing between positive and negative reviews, with some expected overlap in the neutral category.
 
