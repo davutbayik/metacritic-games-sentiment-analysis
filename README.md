@@ -83,15 +83,13 @@ The image below shows sentiment score densities over user scores
 
 ![Sentiment densities](assets/sentiment_densities.png)
 
-## 🚀 Getting Started
-
-### Prerequisites
+## 📋 Prerequisites
 
 - Python 3.9+
 - CUDA-capable GPU (recommended for faster model training)
 - Jupyter Notebook
 
-### Installation
+## 🛠️ Installation
 
 1. **Clone the repository**:
    ```bash
