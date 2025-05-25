@@ -20,11 +20,11 @@ The project combines data scraping, natural language processing, and data visual
 
 ## 🎯 Key Features
 
-- **Data Collection**: Integration with a custom Metacritic scraper to gather game reviews
-- **Sentiment Analysis**: Fine-tuned BERT model for accurate sentiment classification
-- **Visualization**: Interactive charts and graphs to present sentiment trends and patterns
-- **Comprehensive Analysis**: Breakdown of sentiment by game title, genre, platform, and release date
-- **Performance Metrics**: Evaluation of model accuracy, precision, recall, and F1 score
+- 🗃️ **Data Collection**: Integration with a custom Metacritic scraper to gather game reviews
+- 🤖 **Sentiment Analysis**: Fine-tuned BERT model for accurate sentiment classification
+- 📊 **Visualization**: Interactive charts and graphs to present sentiment trends and patterns
+- 🧩 **Comprehensive Analysis**: Breakdown of sentiment by game title, genre, platform, and release date
+- 📈 **Performance Metrics**: Evaluation of model accuracy, precision, recall, and F1 score
 
 ## 📊 Dataset
 
